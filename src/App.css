@@ -1,10 +1,10 @@
 .form{
   position: absolute;
-    left: 50%;
-    translate: -30% 20%;
-    border: solid;
-    border-radius: 8px;
-  width: 50%;
+  left: 50%;
+  translate: -50% 20%;
+  border: solid;
+  border-radius: 8px;
+  width: 40%;
 }
 h1{
   text-align: center;
