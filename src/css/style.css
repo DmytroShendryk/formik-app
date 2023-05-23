@@ -1,0 +1,29 @@
+.form-component {
+    display: flex;
+    flex-direction: column;
+    max-width: 350px;
+    margin: 15px auto;
+}
+  
+  .form-component label {
+    margin-bottom: 5px;
+  }
+  
+  .form-component input {
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .form-component button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .form-component button:hover {
+    background-color: #0056b3;
+  }
